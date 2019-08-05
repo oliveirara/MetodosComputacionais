@@ -1,0 +1,11 @@
+name: some_packages
+channels:
+  - conda-forge
+dependencies:
+  - IPython
+  - numpy
+  - sympy
+  - matplotlib
+  - healpy
+  - scipy
+  - ipywidgets

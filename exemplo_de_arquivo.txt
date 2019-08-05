@@ -1,0 +1,4 @@
+# Caso dê erro ao executar o módulo interact no Jypyter
+conda install -c conda-forge nodejs
+# Talvez rodar a linha abaixo duas vezes
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
